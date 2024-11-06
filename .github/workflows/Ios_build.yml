@@ -67,6 +67,4 @@
     build-path: # optional, default is 
     # Custom Keychain Name
     custom-keychain-name: # optional, default is ios-build.keychain
-          
-on:
-  workflow_dispatch:
+    on: workflow_dispatch:
