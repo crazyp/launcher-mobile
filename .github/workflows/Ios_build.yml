@@ -1,4 +1,4 @@
-            - name: iOS Build Action
+- name: iOS Build Action
   # You may pin to the exact commit or the version.
   # uses: yukiarrr/ios-build-action@099d9f7b468abd4a33d027ea365a103ae9c546d6
   uses: yukiarrr/ios-build-action@v1.12.0
